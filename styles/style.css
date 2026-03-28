@@ -135,7 +135,6 @@
 }
 
 .card {
-  display: block;
   height: 100%;
   position: relative;
   text-decoration: none;
@@ -266,19 +265,18 @@
   border: none;
 }
 .footer__social-list {
+  justify-content: flex-end;
+  display: flex;
+  margin-right: 50px;
   font-size: 18px;
   font-weight: 400;
   line-height: 21px;
   letter-spacing: 0;
   text-align: center;
   list-style: none;
+  
 }
 
-.footer__social-list {
-  justify-content: flex-end;
-  display: flex;
-  margin-right: 50px;
-}
 .footer__social-list-item {
   height: 48px;
   width: 48px;
