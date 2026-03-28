@@ -43,7 +43,7 @@
 }
 
 .cover {
-  background: url(/ono-tebe-nado-ad/images/cover.jpg);
+  background: url(../images/cover.jpg);
   background-size: cover;
   background-position: center;
   position: relative;
@@ -143,19 +143,19 @@
 }
 
 .card_type_film {
-  background: url(/ono-tebe-nado-ad/images/card-lot-01.jpg);
+  background: url(../images/card-lot-01.jpg);
   background-size: cover;
   background-position: center;
 }
 
 .card_type_book {
-  background: url(/ono-tebe-nado-ad/images/card-lot-02.jpg);
+  background: url(../images/card-lot-02.jpg);
   background-size: cover;
   background-position: center;
 }
 
 .card_type_picture {
-  background: url(/ono-tebe-nado-ad/images/card-lot-03.jpg);
+  background: url(../images/card-lot-03.jpg);
   background-size: cover;
   background-position: center;
 }
